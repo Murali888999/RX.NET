@@ -1,0 +1,16 @@
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\Rx.Net.exe.config
+E:\RX.NET\Rx.Net\Rx.Net\obj\Debug\Rx.Net.csprojResolveAssemblyReference.cache
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\Rx.Net.exe
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\Rx.Net.pdb
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.Core.dll
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.Interfaces.dll
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.Core.xml
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.Interfaces.xml
+E:\RX.NET\Rx.Net\Rx.Net\obj\Debug\Rx.Net.exe
+E:\RX.NET\Rx.Net\Rx.Net\obj\Debug\Rx.Net.pdb
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.Linq.dll
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.PlatformServices.dll
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.Windows.Threading.dll
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.Linq.xml
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.PlatformServices.xml
+E:\RX.NET\Rx.Net\Rx.Net\bin\Debug\System.Reactive.Windows.Threading.xml
